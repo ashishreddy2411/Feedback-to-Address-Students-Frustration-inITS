@@ -1,0 +1,9 @@
+pip install scikit-multilearn
+
+NUL = 0
+ENG = 1
+BOR = 2
+MULT = 3
+FRU = 4
+CON = 5
+
